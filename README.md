@@ -29,3 +29,13 @@ Question 2
 Commandes utilisées :
 
     python manage.py runserver 0.0.0.0:8000&
+
+
+Question 3
+----------
+
+Commandes utilisées :
+
+    python manage.py runserver 0.0.0.0:8000&
+    python manage.py makemigrations
+    python manage.py migrate
