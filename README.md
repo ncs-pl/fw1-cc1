@@ -21,3 +21,11 @@ Commandes utilisées :
     django-admin startproject cc
     python manage.py runserver 0.0.0.0:8000&
     python manage.py startapp collec_management
+
+
+Question 2
+----------
+
+Commandes utilisées :
+
+    python manage.py runserver 0.0.0.0:8000&
