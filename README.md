@@ -33,3 +33,12 @@ python manage.py runserver 0.0.0.0:8000&
 python manage.py makemigrations
 python manage.py migrate
 ```
+
+## Question 4
+
+Commandes utilisées :
+
+```bash
+python manage.py runserver 0.0.0.0:8000&
+python manage.py loaddata collec_management/fixtures/examples.json
+```
